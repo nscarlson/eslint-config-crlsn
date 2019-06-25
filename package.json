@@ -6,7 +6,7 @@
   "author": "Nathan Carlson",
   "license": "MIT",
   "dependencies": {
-    "babel-eslint": "^8.0.2",
+    "babel-eslint": "^10.0.2",
     "eslint": "^4.10.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-config-standard-react": "^5.0.0",
